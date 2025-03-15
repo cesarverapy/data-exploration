@@ -34,9 +34,6 @@ This repository contains Jupyter Notebooks that analyze:
 - **`brazil_energy_market.csv`**:
   - Dataset containing energy market details for Brazil.
 
-- **`spain_energy_market.csv`**:
-  - Dataset with energy consumption data for Spain.
-
 ---
 
 ## Tools and Libraries
