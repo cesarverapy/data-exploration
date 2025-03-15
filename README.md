@@ -9,7 +9,7 @@ This repository contains Jupyter Notebooks that analyze:
    - Use of visualization and statistical tools to uncover insights.
 
 2. **Energy Consumption**:
-   - Trends and patterns in energy consumption in Brazil and Spain.
+   - Trends and patterns in energy consumption in Brazil.
    - Time-series analysis and cost optimizations for energy usage.
 
 ---
@@ -84,7 +84,7 @@ The following tools and Python libraries were used:
   - Older houses require more analysis on renovation-related costs.
 
 - **Energy Consumption**:
-  - Seasonal trends influence energy consumption in Brazil and Spain.
+  - Seasonal trends influence energy consumption in Brazil.
   - Opportunities for optimizing energy costs by focusing on low-demand periods.
 
 ---
